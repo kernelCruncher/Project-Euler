@@ -1,3 +1,3 @@
 # Project-Euler
 
-Various Project Euler problems written mostly in Python (and some in C#).
+Various Project Euler problems written in Python.
